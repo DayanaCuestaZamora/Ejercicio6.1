@@ -15,7 +15,10 @@ public class ActividadGrupo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("johan narvaez gonzalez ");
+       Celular objeto = new Celular();
+       objeto.setMarca("ALCATEL");
+        System.out.println(objeto.getMarca());
     }
     
 }
