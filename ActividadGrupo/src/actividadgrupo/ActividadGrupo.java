@@ -15,7 +15,10 @@ public class ActividadGrupo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Dayana cuesta zamora");
+        Memoria objeto = new Memoria();
+        objeto.setMarca("SanDisk");
+        System.out.println(objeto.getMarca());
     }
     
 }
