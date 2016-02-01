@@ -15,7 +15,11 @@ public class ActividadGrupo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        Sunami objeto = new Sunami();
+        System.out.println("kevin rincon mendez");
+          objeto.setNombre("china");
+        System.out.println(objeto.getNombre());
     
+    }
+
 }
