@@ -17,7 +17,7 @@ public class ActividadGrupo {
     public static void main(String[] args) {
         Sunami objeto = new Sunami();
         System.out.println("kevin rincon mendez");
-          objeto.setNombre("china");
+          objeto.setNombre("soacha");
         System.out.println(objeto.getNombre());
     
     }
