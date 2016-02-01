@@ -16,9 +16,9 @@ public class ActividadGrupo {
      */
     public static void main(String[] args) {
         System.out.println("johan narvaez gonzalez ");
-       Celular objeto = new Celular();
-       objeto.setMarca("ALCATEL");
+        Celular objeto = new Celular();
+        objeto.setMarca("ALCATEL");
         System.out.println(objeto.getMarca());
     }
-    
+
 }
